@@ -1,4 +1,7 @@
 # Azure-Administrator-Essentials-AZ-104-Implementation-Guide
+
+> 💡 **Original Publication:** This article was originally published on [Eccentrix Corner](https://www.eccentrix.ca/en/eccentrix-corner/azure-administrator-essentials-preparing-for-az-104-success/). Go there for the latest updates and to explore more technical content.
+
 Azure administration requires systematic understanding of cloud infrastructure management, security implementation, and resource optimization. The AZ-104 certification validates comprehensive skills in managing Azure environments effectively.
 
 ## Azure Administration Framework
